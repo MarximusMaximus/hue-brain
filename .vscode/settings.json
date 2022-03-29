@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
+      "canonicalization",
+      "conda",
       "Marximus",
-      "Maximus"
+      "Maximus",
+      "Referentials",
+      "rreadlink"
     ],
     "files.eol": "\n",
     "files.insertFinalNewline": true,
@@ -16,6 +20,7 @@
     "shell-syntax.defaultShell": "sh",
     "shellcheck.executablePath": "/opt/conda/miniforge/envs/shellcheck/bin/shellcheck",
     "editor.showFoldingControls": "always",
+    "editor.rulers": [80,120],
     "better-comments.tags": [
         {
           "tag": "NOTE:",
